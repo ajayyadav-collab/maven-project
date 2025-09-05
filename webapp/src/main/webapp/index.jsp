@@ -378,7 +378,8 @@
                 <a href="websiteto:www.ajayyadav.co.in" class="contact-item">
                     <i class="fas fa-globe"></i>
                     <span>www.ajayyadav.co.in</span>
-                </a>          
+                </a>        
+                
                 <!-- Removed phone number as per request -->
             </div>
         </div>
@@ -395,7 +396,7 @@
     
     <section class="fade-in delay-2">
         <div class="container">
-            <h2 class="section-title">Topics covered in the training</h2>
+            <h2 class="section-title">Topics covered in the DevOps training</h2>
             <div class="card fade-in delay-1">
                 <h3><u>Linux Topics Covered</u></h3>
                 <div class="training-sessions">
