@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ajay Yadav - Cloud & DevOps Learner</title>
+    <title>Ajay Yadav  Cloud & DevOps Learner</title>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
         
@@ -369,7 +369,7 @@
             <img src="https://storage.googleapis.com/ajayyadavajayyadav/ajay123.jpeg" alt="Ajay Yadav" class="profile-img">
             <h1>AJAY YADAV</h1>
             <!-- ✅ tagline with typing effect (added span only) -->
-            <p class="tagline"><span class="typing">Cloud & DevOps Learner</span></p>
+            <p class="tagline"><span class="typing">Cloud and DevOps Learner</span></p>
             <div class="contact-info">
                 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ay815515@gmai.com" target="_blank" class="contact-item">
                     <i class="fas fa-envelope"></i>
